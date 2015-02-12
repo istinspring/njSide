@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+db.json
+debug.log
+node_modules/
+public/
+.deploy/
+source
+
+# 3rd parties
+themes/landscape
+themes/njside/source/_vendors
+themes/njside/source/assets

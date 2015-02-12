@@ -1,0 +1,21 @@
+{
+  "name": "hexo-site",
+  "version": "2.8.3",
+  "private": true,
+  "dependencies": {
+    "gulp-concat": "^2.4.3",
+    "gulp-less": "^2.0.1",
+    "gulp-ng-annotate": "^0.5.2",
+    "gulp-sourcemaps": "^1.3.0",
+    "gulp-uglify": "^1.1.0",
+    "hexo-admin": "^0.2.0",
+    "hexo-generator-api": "^0.1.0",
+    "hexo-livereload": "^0.1.0",
+    "hexo-renderer-ejs": "*",
+    "hexo-renderer-marked": "^0.1.0",
+    "hexo-renderer-stylus": "*"
+  },
+  "devDependencies": {
+    "gulp-minify-css": "^0.4.5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "njSide",
+  "version": "0.0.0",
+  "authors": [
+    "istinspring <istinspring@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "themes/njside/source/_vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "*",
+    "bootstrap": "*",
+    "angular-resource": "~1.3.13",
+    "angular-animate": "~1.3.13",
+    "angular-aria": "~1.3.13",
+    "angular-loading-bar": "~0.6.0"
+  }
+}
